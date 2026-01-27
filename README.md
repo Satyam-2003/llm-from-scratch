@@ -1,0 +1,1 @@
+## In this repo we are learning the llm from scratch
